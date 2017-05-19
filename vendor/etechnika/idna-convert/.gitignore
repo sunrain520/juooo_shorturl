@@ -1,0 +1,8 @@
+!.gitignore
+vendor
+composer.lock
+/bin/
+/var/
+/build/
+travis/
+cache.properties
